@@ -2,7 +2,7 @@
   "name": "PhotoSwipe",
   "title": "Photoswipe",
   "description": "",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "homepage": "http://photoswipe.com",
   "demo": "http://photoswipe.com",
   "docs": "http://photoswipe.com",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dimsemenov/PhotoSwipe.git"
+    "url": "https://github.com/lacrossefootwear/PhotoSwipe.git"
   },
-  "bugs": "https://github.com/dimsemenov/PhotoSwipe/issues",
+  "bugs": "https://github.com/lacrossefootwear/PhotoSwipe/issues",
   "keywords": ["photoswipe","gallery","touch","mobile"],
   "licenses": [
     {
